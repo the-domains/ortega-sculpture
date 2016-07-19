@@ -1,4 +1,4 @@
-layout_spectrum: 1
+layout_spectrum: 0.4574468
 name: Ortega Sculpture
 collections:
   - index:
@@ -14,8 +14,8 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.2319149
-  lightness: 0.02553191
-  saturation: 0
+  lightness: 0
+  saturation: 1
   rhythmicContrast: 1
   brandColors:
     - '#FCF5EB'
