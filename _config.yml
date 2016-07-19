@@ -14,8 +14,8 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.2319149
-  lightness: 1
-  saturation: 1
+  lightness: 0.02553191
+  saturation: 0
   rhythmicContrast: 1
   brandColors:
     - '#FCF5EB'
