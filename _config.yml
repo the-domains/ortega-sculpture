@@ -1,14 +1,26 @@
-layout_spectrum: 0.045909007312729955
-typography_spectrum: 0.7831659163348377
-color:
-  brandStrength: 0.33961826330050826
-  lightness: 0.4715279331430793
-  saturation: 0.7270448501221836
-  rhythmicContrast: 0.5801863411907107
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+layout_spectrum: 1
 name: Ortega Sculpture
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+color:
+  brandStrength: 0.2319149
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#FCF5EB'
+    - '#1B1A19'
+    - '#F32A47'
+    - '#953E6B'
+    - '#3F668F'
+typography_spectrum: 1
