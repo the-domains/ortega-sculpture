@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Ortega Sculpture]]></title>
         <description><![CDATA[Ortega Sculpture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ortega-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 04:14:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jul 2016 04:23:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ortega-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ortega Sculpture]]></title>
+            <description><![CDATA[<article><h1>Ortega Sculpture</h1><p>Ortega Sculpture is the work of Hector Ortega, born and rasied in Phoenix Arizona. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1712378fa97925fd8ed80f3d4636d1bc/croprotate.jpg?cropheight=3649&cropwidth=5472&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F742ace15-01f8-458b-b124-3c08e9de71af.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/742ace15-01f8-458b-b124-3c08e9de71af.jpg</link>
+            <guid isPermaLink="false">52c4acd1-6126-4ef6-a11d-4d2b65de418c</guid>
+            <pubDate>Wed, 20 Jul 2016 04:23:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ortega Sculpture]]></title>
             <description><![CDATA[<article><h1>Ortega Sculpture</h1><p>Ortega Sculpture is the work of Hector Ortega, born and rasied in Phoenix Arizona. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1712378fa97925fd8ed80f3d4636d1bc/croprotate.jpg?cropheight=3649&cropwidth=5472&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F742ace15-01f8-458b-b124-3c08e9de71af.jpg&x=0&y=0"></article>]]></description>
