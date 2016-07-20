@@ -1,4 +1,21 @@
+typography_spectrum: 1
+color:
+  brandStrength: 0.4744681
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#7D0001'
+    - '#803F39'
+    - '#718459'
+    - '#BCC192'
 layout_spectrum: 0.6489362
+author:
+  name: Hector M. Ortega
+  email: ortegasculpture@yahoo.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/afd98ec6-4d66-4fe5-8d70-c98b260c839b.jpg
 name: Ortega Sculpture
 collections:
   - index:
@@ -12,15 +29,3 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.4744681
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#7D0001'
-    - '#803F39'
-    - '#718459'
-    - '#BCC192'
-typography_spectrum: 1
