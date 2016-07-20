@@ -2,8 +2,8 @@
 description: >-
   Ortega Sculpture is the work of Hector Ortega, born and rasied in Phoenix
   Arizona.
-dateModified: '2016-07-20T04:33:57.261Z'
-datePublished: '2016-07-20T04:41:52.460Z'
+dateModified: '2016-07-20T04:42:33.857Z'
+datePublished: '2016-07-20T04:42:48.442Z'
 title: ''
 author: []
 isBasedOnUrl: >-
