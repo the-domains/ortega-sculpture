@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ortega Sculpture]]></title>
         <description><![CDATA[Ortega Sculpture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ortega-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 19:39:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 00:46:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ortega-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f16e0ee85117d08b6dff10c4fcc393ec/croprotate.jpg?cropheight=3649&cropwidth=5472&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F20ce4746-0e6e-4cfd-958c-3cf63496ed3f.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/ortega-sculpture/ed20c384-8563-4d4d-a784-e82343de968a/index.html</link>
+            <guid isPermaLink="false">ed20c384-8563-4d4d-a784-e82343de968a</guid>
+            <pubDate>Thu, 21 Jul 2016 00:46:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2063a03f-df87-411f-91e2-e923937bd409.jpg" alt="Ortega Sculpture">]]></description>
-            <link>undefinedortega-sculpture/index.html</link>
+            <link>https://thegrid.ai/ortega-sculpture/ortega-sculpture/index.html</link>
             <guid isPermaLink="false">e5f5f252-bde5-4c6d-b304-65009f94fef8</guid>
             <pubDate>Wed, 20 Jul 2016 19:38:49 GMT</pubDate>
         </item>
